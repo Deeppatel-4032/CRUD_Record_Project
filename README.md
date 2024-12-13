@@ -63,7 +63,7 @@ This project is a fully functional CRUD (Create, Read, Update, Delete) applicati
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crud-nodejs-mongodb.git
+   git clone https://github.com/Deeppatel-4032/CRUD_Record_Project.git
    cd crud-nodejs-mongodb
    ```
 
